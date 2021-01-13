@@ -16,19 +16,6 @@ owner:
                 twitter: 'pcranaway'
             description: 'Owner'
 
-manager:
-    style:
-        color: '#5555ff'
-
-    display_name: 'Manager'
-    
-    members:
-        Kyruxio:
-            uuid: 'c397327f-61e7-424d-aefb-8b934f7f5d10'
-            contact:
-                twitter: 'ignkyruxio'
-            description: 'Manager'
-
 administrator:
     style:
         color: '#ff5555'
