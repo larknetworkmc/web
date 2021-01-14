@@ -31,9 +31,6 @@ administrator:
             uuid: '3a19318e-66e4-4c06-8f81-cd7d33b3c556'
             description: 'Game Admin'
 
-        Mvk:
-            uuid: 'a0d64519-83fc-4012-81d5-0de65b12473a'
-            description: 'Game Admin'
 
 moderator:
     style:
