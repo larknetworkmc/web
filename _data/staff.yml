@@ -23,7 +23,7 @@ administrator:
     display_name: 'Administrator'
     
     members:
-        Mavco_:
+        aimass:
             uuid: '42b64d7e-878e-4c49-b54f-a12f5024b2fe'
             description: 'Game Admin'
 
