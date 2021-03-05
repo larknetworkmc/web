@@ -9,13 +9,6 @@ owner:
             uuid: '468389ba-9236-4f36-8893-c79a335f6fb7'
             description: 'Owner'
 
-        pcrunn:
-            uuid: '2e5d2c6f-392e-44a3-b0ef-85eb369cd1d3'
-            contact:
-                github: 'pcranaway'
-                twitter: 'pcranaway'
-            description: 'Owner'
-
 administrator:
     style:
         color: '#ff5555'
